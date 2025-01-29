@@ -1,4 +1,4 @@
-export const frutas = [
+const frutas = [
   {
     id: 1,
     nombre: 'manzana',
@@ -21,3 +21,12 @@ export const frutas = [
   }
 ]
 
+//export default frutas
+
+const verduras = ['lechuga']
+
+
+//export { frutas, verduras }
+
+
+export { frutas as default, verduras }
