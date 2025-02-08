@@ -24,3 +24,6 @@ Proptype.propTypes = {
 //Practica
 // <h1><h1/>
 //<h2>{value}<h2/>
+
+
+
